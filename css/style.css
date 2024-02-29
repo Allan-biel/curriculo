@@ -1,6 +1,6 @@
 html, body {
-    height: 95%; 
-    margin: 100px; 
+    height: 100%; 
+    margin: 50px; 
     padding: 0px; 
 }
 body {
@@ -29,8 +29,8 @@ body {
 }
 #foto {
     position: absolute; 
-    top: 260px; 
-    left: 750px; 
+    top: 165px; 
+    left: 680px; 
     width: 120px; 
     height: 150px; 
 }
@@ -38,8 +38,8 @@ body {
 #botao {
     position: absolute;
     display: inline-block; 
-    top: 420px; 
-    left: 755px; 
+    top: 320px; 
+    left: 685px; 
     padding: 14px 32px; 
     background-color: #013061; 
     color: #fff; 
