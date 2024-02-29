@@ -1,0 +1,49 @@
+html, body {
+    height: 95%; 
+    margin: 100px; 
+    padding: 0px; 
+}
+body {
+    background: linear-gradient(to bottom right, #ffffff, #073997); 
+}
+
+#text-comeco {
+    color: #070069;
+    text-align: center;
+}
+ #nome {
+     color: #073997;
+}
+
+#cabecalho {
+    color: #031942;
+}
+
+#formacao {
+    color: #070069;
+}
+
+#formacao-academica{
+     color: #031942;
+    
+}
+#foto {
+    position: absolute; 
+    top: 260px; 
+    left: 750px; 
+    width: 120px; 
+    height: 150px; 
+}
+
+#botao {
+    position: absolute;
+    display: inline-block; 
+    top: 420px; 
+    left: 755px; 
+    padding: 14px 32px; 
+    background-color: #013061; 
+    color: #fff; 
+    border: none; 
+    border-radius: 11%;
+    cursor: pointer; 
+}
