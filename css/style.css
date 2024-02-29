@@ -47,3 +47,7 @@ body {
     border-radius: 11%;
     cursor: pointer; 
 }
+
+#cursos {
+    color: blueviolet;
+}
